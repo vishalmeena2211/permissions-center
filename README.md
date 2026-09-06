@@ -4,8 +4,9 @@ _Query, request and observe browser permissions — and tell the user how to un-
 
 [![npm version](https://img.shields.io/npm/v/permissions-center.svg)](https://www.npmjs.com/package/permissions-center)
 [![minzipped size](https://img.shields.io/bundlephobia/minzip/permissions-center)](https://bundlephobia.com/package/permissions-center)
-[![license MIT](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
+[![license MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/vishalmeena2211/permissions-center/blob/main/LICENSE)
 [![TypeScript](https://img.shields.io/badge/types-TypeScript-3178c6.svg)](https://www.typescriptlang.org/)
+[![GitHub](https://img.shields.io/badge/GitHub-vishalmeena2211%2Fpermissions--center-181717?logo=github)](https://github.com/vishalmeena2211/permissions-center)
 
 ```js
 // Before — throws TypeError in Firefox, tells the user nothing when they're blocked
@@ -333,6 +334,13 @@ Open `demo/index.html` through a local server (`npx serve .`, then
 
 Corrections to the instruction matrix are the most welcome kind of PR. Please include the browser
 version and OS you verified on.
+
+## Links
+
+- **Repository** — [github.com/vishalmeena2211/permissions-center](https://github.com/vishalmeena2211/permissions-center)
+- **npm** — [npmjs.com/package/permissions-center](https://www.npmjs.com/package/permissions-center)
+- **Issues & feature requests** — [Report an issue](https://github.com/vishalmeena2211/permissions-center/issues)
+- **Changelog** — [releases](https://github.com/vishalmeena2211/permissions-center/releases)
 
 ## License
 
